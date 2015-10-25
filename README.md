@@ -6,4 +6,5 @@ major release commit
 second major commit
 third major commit
 
-getting ready for 1.0 
+getting ready for 1.0
+various bugfixes 
