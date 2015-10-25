@@ -1,2 +1,3 @@
 git-homework
-major release commit 
+major release commit
+second major commit 
