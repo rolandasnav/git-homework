@@ -1,2 +1,2 @@
  git-homework
-version 0.1
+hotfix for 0.2
