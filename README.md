@@ -1,2 +1,2 @@
 git-homework
-develop commit 3 
+major release commit 
