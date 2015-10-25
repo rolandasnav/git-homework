@@ -8,3 +8,4 @@ third major commit
 
 getting ready for 1.0
 various bugfixes 
+ready for release
