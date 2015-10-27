@@ -1,5 +1,3 @@
-<<<<<<< .merge_file_mN8fL9
-
 develop commit 4 
 hotfix for 0.2
 
@@ -11,5 +9,4 @@ getting ready for 1.0
 various bugfixes 
 
 git-homework
-future release 
->>>>>>> .merge_file_bnoxT9
+future release
